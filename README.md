@@ -1,7 +1,7 @@
 ## Hey👋 What's up?
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently practising - DSA<br>
+🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently learning - DSA<br>
 
 
 ## 🌐 Socials:
