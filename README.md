@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vamshi-billa-122794371/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.youtube.com/c/jatin vishwakarma" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
   </a>
 </p>
