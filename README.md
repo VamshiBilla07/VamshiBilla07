@@ -25,13 +25,14 @@
     <img src="https://skillicons.dev/icons?i=git,c,cpp,py,html,js,sass,bootstrap,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,postman,vscode,nodejs,expressjs,css,aws,vite,sublime-text,&perline=6" />
   </a>
 </p>
+
 ### 📈 Stats:
 <p align="center">
   <a href="https://github.com/VamshiBilla07">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=dark&title_color=ff3068"><br>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=VamshiBilla07&show_icons=true&theme=dark&title_color=ff3068"><br>
   </a>
 <!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddingjatin&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiBilla07&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
 </details>
 
 <!--horizontal divider(gradiant)-->
