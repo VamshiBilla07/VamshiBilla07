@@ -4,8 +4,17 @@
 🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently learning - DSA<br>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/billavamshisukendar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-billa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vamshi_Billa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshibilla93@gmail.com) 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vamshi-billa-122794371/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/c/jatin vishwakarma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
+  </a>
+</p>
+
 
 ### 🚀 Technologies & Tools
 <p align="center">
