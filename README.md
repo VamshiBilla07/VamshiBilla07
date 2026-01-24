@@ -25,10 +25,17 @@
     <img src="https://skillicons.dev/icons?i=git,c,cpp,py,html,js,sass,bootstrap,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,postman,vscode,nodejs,expressjs,css,aws,vite,sublime-text,&perline=6" />
   </a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VamshiBilla07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VamshiBilla07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiBilla07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📈 Stats:
+<p align="center">
+  <a href="https://github.com/VamshiBilla07">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=dark&title_color=ff3068"><br>
+  </a>
+<!-- Most used languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddingjatin&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+</details>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
