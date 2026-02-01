@@ -19,7 +19,7 @@
 ### 🚀 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,html,js,sass,bootstrap,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,postman,vscode,nodejs,expressjs,css,aws,vite,sublimetext,docker,flutter,java,kafka,postgresql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,html,js,sass,bootstrap,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,postman,vscode,nodejs,expressjs,css,aws,vite,sublime,docker,flutter,java,kafka,postgresql&perline=6" />
   </a>
 </p>
 
