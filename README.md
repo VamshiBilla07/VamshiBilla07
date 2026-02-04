@@ -20,11 +20,20 @@
   <a href="https://www.leetcode.com/Vamshi_710" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,py,html,js,sass,bootstrap,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,postman,vscode,nodejs,expressjs,css,aws,vite,sublime,docker,flutter,java,kafka,postgresql,typescript,django,fastapi,kubernetes,vercel&perline=6" />
+  </a>
+</p>
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=react" alt="GitHub Activity Graph">
   </a>
 </p>
 
