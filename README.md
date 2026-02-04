@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Hey👋 What's up?
-
+<h1 align="center">Hi 👋, I'm Vamshi Billa</h1>
 <h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
 
 # 💫 About Me:
