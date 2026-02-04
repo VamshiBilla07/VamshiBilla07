@@ -2,6 +2,8 @@
 
 ## Hey👋 What's up?
 
+<h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently learning - DSA<br>
 
