@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently learning - DSA<br>
+🔭 I’m currently working on Full Stack Projects<br>👯 open to collaborate on AI + Full stacks Projects<br>🌱 I’m currently learning - DSA<br>📫 How to reach me: vamshibilla93@gmail.com
 
 
 ### 🌐 Connect With Me
