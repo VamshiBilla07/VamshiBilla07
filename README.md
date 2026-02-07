@@ -32,8 +32,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📈 Stats:
- <img src="https://github-readme-stats-snowy-three-k96aqir1i6.vercel.app/api?username=VamshiBilla07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
- 
 [![GitHub Streak](https://github-readme-streak-sttats.vercel.app?user=VamshiBilla07&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!--horizontal divider(gradiant)-->
