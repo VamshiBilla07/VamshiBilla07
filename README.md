@@ -33,7 +33,8 @@
 
 ### 📈 Stats:
 <div align="center">
-  
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=VamshiBilla07)](https://github.com/LordDashMe/github-contribution-stats/)
+
 [![GitHub Streak](https://github-readme-streak-sttats.vercel.app?user=VamshiBilla07&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!--horizontal divider(gradiant)-->
