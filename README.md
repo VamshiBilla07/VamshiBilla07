@@ -31,8 +31,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 Stats:
-<div align="center">
+//### 📈 Stats:
+
+//<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-sttats.vercel.app?user=VamshiBilla07&theme=tokyonight-duo)](https://git.io/streak-stats)
 
