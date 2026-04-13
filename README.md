@@ -31,11 +31,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 Stats:
+// ### 📈 Stats:
 
-<div align="center">
+// <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-sttats.vercel.app?user=VamshiBilla07&theme=tokyonight-duo)](https://git.io/streak-stats)
+// [![GitHub Streak](https://github-readme-streak-sttats.vercel.app?user=VamshiBilla07&theme=tokyonight-duo)](https://git.io/streak-stats) //
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
