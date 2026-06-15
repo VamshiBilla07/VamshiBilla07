@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Projects.<br>👯 open to collaborate on AI + Full stacks Projects.<br>🌱 I’m currently learning - DSA in Java.<br>📫 How to reach me: vamshibilla93@gmail.com
 
-### 🌐 Connect With Me:
+# 🌐 Connect With Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vamshi-billa-122794371/" target="_blank">
